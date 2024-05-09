@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans", sans-serif;
+    color: rgba(59, 59, 59, 0.644);
+}
+
+body{
+min-height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;    
+background: url(c2c0ffba6e623dcb06045503eaa88190.jpg);
+}
+.sobre{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 10px;
+
+}
+.CardTotal {
+height: 22rem;
+width: 15rem;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border-radius: 0.8rem;
+background-color: rgb(240, 240, 240);
+}
+
+.CardTotal, .profile, .fab, .contato {
+box-shadow: -0.1rem -0.1rem 0.3rem hsl(0, 0%, 78%), 0.1rem 0.1rem 0.3rem #394799b2;
+}
+
+.profile {
+height: 7rem;
+width: 7rem;
+border-radius: 50%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+
+.name {
+font-size: 700;
+margin: 1rem 0;
+
+}
+
+.social {
+margin: 1rem;
+letter-spacing: 1rem;
+}
+
+.fab{
+height: 2rem;
+width: 2rem;
+padding: 0.5rem;
+border-radius: 50%;
+align-items: center;
+}
+
+.contato{
+color: black;
+
+}
+.profile {
+background-color: #3f52ff;
+
+}
+
+.img{
+    height: 6rem;
+    width: 6rem;
+    background-image: url(IMG_3770.PNG);
+    background-size: cover;
+background-position: center;  
+border-radius: 50%;
+
+}
+
+.contato {
+background-color: rgb(44, 219, 219);
+border: none;
+padding: 0.7rem;
+border-radius: 0.8rem;    
+margin-top: 0.5rem;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: azure;
+}
+
+.fab:hover, .contato:hover {
+box-shadow: inset 0.1rem -0.1rem 0.3rem aliceblue,
+inset 0.1rem 0.1rem 0.3rem rgb(67, 133, 255);
+}
