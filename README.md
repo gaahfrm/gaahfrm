@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-I'm Gabriel Machado, a passionate software developer and tech enthusiast. I currently work as a Senior Software Developer at XTEAM. </br>
-With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Gabriel Machado, a passionate software developer and technology enthusiast. I currently don't work in the area but I'm looking for my first opportunity. </br>
+I do private work on various interesting projects and explore different technologies.
 
 > “Do, or do not. There is no “try” — Yoda
 
