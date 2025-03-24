@@ -1,19 +1,176 @@
-# 👋 Hi there
+# 👩🏻‍💻 Larissa Kich
 
-I'm Gabriel Machado, a passionate software developer and technology enthusiast. I currently don't work in the area but I'm looking for my first opportunity. </br>
-I do private work on various interesting projects and explore different technologies.
+**`Desenvolvedora FullStack`**
 
-> “Do, or do not. There is no “try” — Yoda
+Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me especializando como desenvolvedor fullstack. Tenho experiência com HTML e CSS e estou aprimorando minhas habilidades em JavaScript e React. Além disso, já trabalhei com vendas e atendimento ao público, desenvolvendo habilidades de comunicação e resolução de problemas. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e desafios que me ajudem a crescer profissionalmente. Estou pronto para contribuir com minha dedicação e vontade de aprender para agregar valor à sua equipe! 🚀
 
-# 🚀 Expertise
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@larissakich">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-Passionate about creating interactive and intuitive user experiences, I have a background in front-end web development.
+---
 
-In my professional career I also proudly worked on freelance projects, where I improved my knowledge and organization for excellent results.
+### 🤖 Linguagens e Tecnologias
 
-# 💻 Tech Stack
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) !
-# 🌐 Socials:
+<br/>
+<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaah_frm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-machado-3ba021248/) 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
