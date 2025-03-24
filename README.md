@@ -88,7 +88,7 @@ Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="100" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gaahfrm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -96,7 +96,7 @@ Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahfrm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
