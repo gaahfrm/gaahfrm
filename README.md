@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me especializando como desenvolvedor fullstack. Tenho experiência com HTML e CSS e estou aprimorando minhas habilidades em JavaScript e React. Além disso, já trabalhei com vendas e atendimento ao público, desenvolvendo habilidades de comunicação e resolução de problemas. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e desafios que me ajudem a crescer profissionalmente. Estou pronto para contribuir com minha dedicação e vontade de aprender para agregar valor à sua equipe! 🚀
+Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me especializando como desenvolvedor fullstack. Tenho experiência com HTML, CSS, JAVASCRIPT e estou aprimorando minhas habilidades em React. Além disso, já trabalhei com vendas e atendimento ao público, desenvolvendo habilidades de comunicação e resolução de problemas. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e desafios que me ajudem a crescer profissionalmente. Estou pronto para contribuir com minha dedicação e vontade de aprender para agregar valor à sua equipe! 🚀
 
 
 
