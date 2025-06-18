@@ -5,14 +5,6 @@ Olá! Me chamo **Gabriel Machado** e atualmente sou estudante de Engenharia de S
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
-- 💻 HTML | CSS | JavaScript
-- ⚛️ React.js (em evolução)
-- 🗃️ Versionamento com Git & GitHub
-- 🛠️ Familiaridade com Bootstrap, APIs REST, LocalStorage
-
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
