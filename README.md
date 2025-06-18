@@ -1,9 +1,15 @@
-# 👩🏻‍💻 Gabriel Machado
+# 👨🏻‍💻 Gabriel Machado  
+**Desenvolvedor Front-End | Estudante de Engenharia de Software**
 
-**`Desenvolvedor FrontEnd`**
+Olá! Me chamo **Gabriel Machado** e atualmente sou estudante de Engenharia de Software pela **Uninter**. Estou me especializando como desenvolvedor **Fullstack**, com foco principal em **Front-End**.
 
-Me chamo Gabriel, sou estudante de Engenharia de Software na Uninter e estou me especializando como desenvolvedor fullstack. Tenho experiência com HTML, CSS, JAVASCRIPT e estou aprimorando minhas habilidades em React. Além disso, já trabalhei com vendas e atendimento ao público, desenvolvendo habilidades de comunicação e resolução de problemas. Sou apaixonado por tecnologia e estou sempre em busca de aprendizado e desafios que me ajudem a crescer profissionalmente. Estou pronto para contribuir com minha dedicação e vontade de aprender para agregar valor à sua equipe! 🚀
+---
 
+## 🚀 Tecnologias e Ferramentas
+- 💻 HTML | CSS | JavaScript
+- ⚛️ React.js (em evolução)
+- 🗃️ Versionamento com Git & GitHub
+- 🛠️ Familiaridade com Bootstrap, APIs REST, LocalStorage
 
 
 ---
