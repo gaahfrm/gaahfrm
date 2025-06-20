@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Gabriel Machado  
-**Desenvolvedor Front-End | Estudante de Engenharia de Software**
+**Desenvolvedor | Estudante de Engenharia de Software**
 
-Olá! Me chamo **Gabriel Machado** e atualmente sou estudante de Engenharia de Software pela **Uninter**. Estou me especializando como desenvolvedor **Fullstack**.
+Olá! Me chamo **Gabriel Machado** e atualmente sou estudante de Engenharia de Software pela **Uninter**. Estou me especializando com tecgolias **modernas**.
 
 ---
 
