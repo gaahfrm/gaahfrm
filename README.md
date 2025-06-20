@@ -5,16 +5,8 @@
 
 🚀 Aqui no GitHub compartilho meus projetos acadêmicos e pessoais, onde aplico:
 - Lógica de programação, front-end e prototipagem
-- Boas práticas de desenvolvimento
 - Automação de tarefas e organização de dados
 - Pensamento analítico voltado para soluções reais
-
-🛠️ Alguns destaques:
-- Radar Cine: projeto web para busca de filmes
-- Projetos de faculdade com React, JS e HTML/CSS
-- Em breve: análises de dados e automações com foco em campanhas
-
-📬 Estou sempre aberto a conexões! Vamos conversar sobre como unir tech + marketing de forma inteligente.
 
 ### 🤖 Linguagens e Tecnologias
 
