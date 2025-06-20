@@ -1,5 +1,5 @@
 # 👨🏻‍💻 Gabriel Machado  
-👋 Olá! Sou Gabriel Machado, estudante de Engenharia de Software e apaixonado por tecnologia, dados e experiência do usuário.
+👋 estudante de Engenharia de Software e apaixonado por tecnologia, dados e experiência do usuário.
 
 🎯 Estou em transição para áreas de Produto, Marketing Digital e CRM, unindo minha base técnica com visão estratégica.
 
