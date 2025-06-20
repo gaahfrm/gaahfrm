@@ -1,10 +1,20 @@
 # 👨🏻‍💻 Gabriel Machado  
-**Desenvolvedor | Estudante de Engenharia de Software**
+👋 Olá! Sou Gabriel Machado, estudante de Engenharia de Software e apaixonado por tecnologia, dados e experiência do usuário.
 
-Olá! Me chamo **Gabriel Machado** e atualmente sou estudante de Engenharia de Software pela **Uninter**. Estou me especializando com tecgolias **modernas**.
+🎯 Estou em transição para áreas de Produto, Marketing Digital e CRM, unindo minha base técnica com visão estratégica.
 
----
+🚀 Aqui no GitHub compartilho meus projetos acadêmicos e pessoais, onde aplico:
+- Lógica de programação, front-end e prototipagem
+- Boas práticas de desenvolvimento
+- Automação de tarefas e organização de dados
+- Pensamento analítico voltado para soluções reais
 
+🛠️ Alguns destaques:
+- Radar Cine: projeto web para busca de filmes
+- Projetos de faculdade com React, JS e HTML/CSS
+- Em breve: análises de dados e automações com foco em campanhas
+
+📬 Estou sempre aberto a conexões! Vamos conversar sobre como unir tech + marketing de forma inteligente.
 
 ### 🤖 Linguagens e Tecnologias
 
