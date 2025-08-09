@@ -1,4 +1,4 @@
-<h1>👨🏻‍💻 Gabriel Machado<h1/>
+<h1>👨🏻‍💻 Gabriel Machado</h1>
 
 💡 Desenvolvedor Web na Vow Digital — Agência de Marketing Digital
 
