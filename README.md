@@ -1,7 +1,6 @@
 <h1>👨🏻‍💻 Gabriel Machado</h1>
 
-💡 Desenvolvedor Web na Vow Digital — Agência de Marketing Digital
-
+💡 Desenvolvedor Web 
 🎯 Desenvolvo sites e aplicações com foco em performance, responsividade e experiência do usuário. Trabalho com tecnologias modernas e sigo boas práticas de desenvolvimento para entregar soluções escaláveis e de alta qualidade.
 
 🚀 Experiência em:
