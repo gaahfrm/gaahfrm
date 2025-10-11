@@ -48,4 +48,4 @@ Trabalho com as principais tecnologias do ecossistema web e sigo boas práticas 
 Projetos que unem **código limpo, boas práticas, design e propósito real** — sempre evoluindo um pouco mais a cada commit 🚀  
 
 📫 Vamos conectar?  
-<a href="https://www.linkedin.com/in/gabrielmachadofr/" target="_blank">LinkedIn</a> | <a href="mailto:contatodevmachado@gmail.com">E-mail</a>
+<a href="https://www.linkedin.com/in/gabrielmachadofr/" target="_blank">LinkedIn</a> 
