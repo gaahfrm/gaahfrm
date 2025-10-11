@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Gabriel Machado</h1>
 
 <p align="center">
-💡 <b>Desenvolvedor Web Júnior</b><br/>
+💡 <b>Desenvolvedor Web</b><br/>
 🎯 Crio sites e aplicações com foco em <b>performance, responsividade e experiência do usuário</b>.
 </p>
 
