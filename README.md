@@ -1,51 +1,40 @@
 <h1 align="center">👨🏻‍💻 Gabriel Machado</h1>
 
 <p align="center">
-💡 <b>Desenvolvedor Web</b><br/>
-🎯 Crio sites e aplicações com foco em <b>performance, responsividade e experiência do usuário</b>.
+  <b>Full Stack Software Engineer | React, Next.js & Node.js</b><br/>
+  <i>Especialista em Aplicações Escaláveis e APIs de Alta Performance</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maringá--PR-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
+  <img src="https://img.shields.io/badge/Focus-Scalability_%26_UX-orange?style=flat-square" alt="Foco">
 </p>
 
 ---
 
 ### 🚀 Sobre mim
-Sou desenvolvedor web apaixonado por transformar ideias em interfaces modernas, rápidas e funcionais.  
-Trabalho com as principais tecnologias do ecossistema web e sigo boas práticas de código e UX/UI, sempre focado em entregar soluções escaláveis, performáticas e de alta qualidade.
+Sou desenvolvedor apaixonado por transformar ideias complexas em interfaces modernas, rápidas e funcionais. 
+Com foco total no ecossistema JavaScript, busco sempre entregar soluções que unem código limpo, escalabilidade e uma experiência de usuário impecável.
+
+- 🎓 Cursando Engenharia de Software.
+- 💼 Atuando como Dev na Vow Digital.
 
 ---
 
-### 🧠 Tecnologias que utilizo
-- **Front-end:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js  
-- **Back-end & Integrações:** Node.js, APIs REST  
-- **CMS & E-commerce:** WordPress (Elementor, temas personalizados, otimização)  
-- **Ferramentas & Versionamento:** Git, GitHub, Figma, Vercel  
-- **Foco:** Experiência do usuário, boas práticas, performance e escalabilidade  
+### 🧠 Tecnologias & Ferramentas
 
----
-
-### 🛠️ Stack Visual
+**Foco Principal (Daily Driver):**
 <p align="left">
-  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaahfrm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaahfrm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+**Também tenho experiência com:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-
----
-
-### 📌 O que você vai encontrar por aqui
-Projetos que unem **código limpo, boas práticas, design e propósito real** — sempre evoluindo um pouco mais a cada commit 🚀  
-
-📫 Vamos conectar?  
-<a href="https://www.linkedin.com/in/gabrielmachadofr/" target="_blank">LinkedIn</a> 
