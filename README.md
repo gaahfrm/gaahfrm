@@ -51,18 +51,7 @@ Tenho experiência prática no desenvolvimento de **SaaS, APIs e sistemas web**,
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
----
 
-### 📌 Projetos em Destaque
-- 🚀 **SaaS Platform** – Aplicação web focada em escalabilidade e regras de negócio  
-  **Stack:** React, Node.js, TypeScript, PostgreSQL  
-
-- 📊 **Web App** – Sistema web com foco em performance e UX  
-  **Stack:** Next.js, Supabase  
-
-_(Mais projetos em breve)_
-
----
 
 ### 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachado-se/)
