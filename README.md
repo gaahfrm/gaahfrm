@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maringá--PR-007ACC?style=flat-square&logo=googlemaps&logoColor=white" alt="Localização">
-  <img src="https://img.shields.io/badge/Core-JavaScript%20%26%20TypeScript-orange?style=flat-square" alt="Core">
+  <img src="https://img.shields.io/badge/Maringá--PR-007ACC?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-JavaScript%20%26%20TypeScript-orange?style=flat-square" />
 </p>
 
 ---
@@ -17,9 +17,23 @@ Sou **Desenvolvedor Full Stack** com foco em **JavaScript e TypeScript**, atuand
 
 Tenho experiência prática no desenvolvimento de **SaaS, APIs e sistemas web**, trabalhando do front-end ao back-end com atenção à performance, organização de código e experiência do usuário.
 
-* 🎓 Cursando **Engenharia de Software**
-* 💼 Desenvolvedor na **Vow Digital**
+- 🎓 Cursando **Engenharia de Software**
 
+---
+
+### 🧱 Arquitetura & Práticas de Engenharia
+- Clean Architecture aplicada em projetos reais
+- Separação clara entre domínio, aplicação e infraestrutura
+- APIs RESTful e Server Actions (Next.js)
+- Código orientado à manutenibilidade e testabilidade
+- Versionamento e organização focados em longo prazo
+
+---
+
+### 🧪 Qualidade & Testes
+- Testes unitários com **Jest**
+- Foco em regras de negócio e domínio
+- Cobertura de testes priorizando confiança e custo-benefício
 
 ---
 
@@ -51,7 +65,7 @@ Tenho experiência prática no desenvolvimento de **SaaS, APIs e sistemas web**,
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
-
+---
 
 ### 📫 Vamos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachado-se/)
