@@ -19,7 +19,7 @@ Tenho experiência prática no desenvolvimento de **SaaS, APIs e sistemas web**,
 
 * 🎓 Cursando **Engenharia de Software**
 * 💼 Desenvolvedor na **Vow Digital**
-* 💡 Atuação em **SaaS e aplicações de alta performance**
+
 
 ---
 
