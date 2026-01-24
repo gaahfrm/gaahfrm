@@ -1,7 +1,7 @@
 <h1 align="center">👨🏻‍💻 Gabriel Machado</h1>
 
 <p align="center">
-  <b>Software Engineer | Java (Spring Boot) & JavaScript (React/Next.js/Node)</b><br/>
+  <b> Desenvolvedor Full Stack | Java (Spring Boot) & JavaScript (React/Next.js/Node)</b><br/>
   <i>Especialista em aplicações escaláveis, sistemas financeiros e resiliência de software</i>
 </p>
 
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 Sobre mim
-Sou **Software Engineer** com forte atuação no ecossistema **Java e TypeScript**. Meu foco é a construção de sistemas críticos, APIs performáticas e soluções orientadas a produto que exigem alta disponibilidade e integridade de dados.
+Sou **Desenvolvedor Full Stack** com forte atuação no ecossistema **Java e TypeScript**. Meu foco é a construção de sistemas críticos, APIs performáticas e soluções orientadas a produto que exigem alta disponibilidade e integridade de dados.
 
 Recentemente, aprofundei meus conhecimentos em **sistemas financeiros e resiliência de back-end**, aplicando padrões de design para lidar com serviços externos e garantir consistência em transações complexas.
 
