@@ -17,7 +17,7 @@ Sou **Desenvolvedor Full Stack** com forte atuação no ecossistema **Java e Typ
 
 Recentemente, aprofundei meus conhecimentos em **sistemas financeiros e resiliência de back-end**, aplicando padrões de design para lidar com serviços externos e garantir consistência em transações complexas.
 
-- 🎓 Cursando **Engenharia de Software** (2º ano)
+- 🎓 Cursando **Engenharia de Software** (3º ano)
 - 💼 Atualmente atuando como **Full Stack Developer** na Vow Digital
 
 ---
