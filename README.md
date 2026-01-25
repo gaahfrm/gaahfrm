@@ -2,7 +2,7 @@
 
 <p align="center">
   <b> Desenvolvedor Full Stack | Java (Spring Boot) & JavaScript (React/Next.js/Node)</b><br/>
-  <i>Especialista em aplicações escaláveis, sistemas financeiros e resiliência de software</i>
+  <i>Focado em em aplicações escaláveis, sistemas financeiros e resiliência de software</i>
 </p>
 
 <p align="center">
