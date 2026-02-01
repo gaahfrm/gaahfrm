@@ -18,7 +18,7 @@ Sou **Desenvolvedor Full Stack** focado na construção de sistemas críticos e 
 
 Recentemente, expandi minha atuação para **DevOps e Cloud**, projetando infraestruturas na **AWS** e implementando pipelines de CI/CD para garantir entregas ágeis e seguras. Meu objetivo é resolver problemas complexos de negócio através de código limpo, testável e escalável.
 
-- 🎓 Cursando **Engenharia de Software** (3º ano)
+- 🎓 Cursando **Engenharia de Software** 
 - 💼 Atualmente atuo como **Full Stack Developer** na Vow Digital
 - ☁️ Projetos recentes com deploy em **AWS (EC2/RDS)** e **GitHub Actions**
 
